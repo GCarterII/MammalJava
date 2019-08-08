@@ -1,6 +1,6 @@
 
 public abstract class Mammal {
-	private int energyLevel = 0;
+	private int energyLevel = 100;
 
 	public int displayEngergy(){
 		System.out.println(this.energyLevel);

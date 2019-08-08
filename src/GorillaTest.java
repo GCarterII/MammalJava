@@ -13,6 +13,15 @@ public class GorillaTest {
 		coco.eatBananas();
 		coco.climb();
 		coco.displayEngergy();
+		GiantBat batManDoo = new GiantBat();
+		batManDoo.attackTown();
+		batManDoo.attackTown();
+		batManDoo.attackTown();
+		batManDoo.eatHumans();
+		batManDoo.eatHumans();
+		batManDoo.fly();
+		batManDoo.fly();
+		batManDoo.displayEngergy();
 	}
 
 }

@@ -1,5 +1,6 @@
 
 class Gorilla extends Mammal{
+
 	public void throwSomething() {
 		this.changeEnergyLevel(-5);
 		System.out.println("This damn Gorilla keeps throwing things!");
